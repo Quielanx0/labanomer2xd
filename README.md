@@ -127,4 +127,6 @@ TTL был равен одному
 
 <a href="https://ibb.co/CbWFKNW"><img src="https://i.ibb.co/JvCPj0C/image.png" alt="image" border="0"></a>
 
+<a href="https://ibb.co/zmCQm8m"><img src="https://i.ibb.co/fXZqX8X/Screenshot-2020-09-17-13-52-30-730-c.." alt="Screenshot-2020-09-17-13-52-30-730-com-thecrackertechnology-andrax" border="0"></a>
+
 получается  Server IP: 208.113.129.154
