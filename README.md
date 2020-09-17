@@ -114,3 +114,17 @@ TTL был равен одному
 ну и поскольку это ласт на этом всё
 
 ![](teno.gif)
+
+
+17.09.20 время доделовать
+
+
+для изучения я взял сайт http://wforum.heroes35.net/
+
+определить айпи я решил изпользовать пинг nslookup и интернет ресурсы 
+
+<a href="https://ibb.co/x1Pvw9y"><img src="https://i.ibb.co/Ht1vRw0/image.png" alt="image" border="0"></a>
+
+<a href="https://ibb.co/CbWFKNW"><img src="https://i.ibb.co/JvCPj0C/image.png" alt="image" border="0"></a>
+
+получается  Server IP: 208.113.129.154
