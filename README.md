@@ -130,3 +130,20 @@ TTL был равен одному
 <a href="https://ibb.co/zmCQm8m"><img src="https://i.ibb.co/fXZqX8X/Screenshot-2020-09-17-13-52-30-730-com-thecrackertechnology-andrax.jpg" alt="Screenshot-2020-09-17-13-52-30-730-com-thecrackertechnology-andrax" border="0" /></a>
 
 получается  Server IP: 208.113.129.154
+
+значит дальше изучение nslookup
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TWZ1N9g/image.png" alt="image" border="0"></a>
+
+это значит что данном айпи нет сервера почты
+
+само обяснение аргумента SOA я не очень понял,описание NX я не нашел
+
+
+<a href="https://ibb.co/ftvc9rr"><img src="https://i.ibb.co/3WzJvSS/image.png" alt="image" border="0"></a>
+
+![](3c107e7ea41584bced6fae5dc9d29fe3_w200.gif)
+
+
+получаеться только type=any что то выдало,а это вроде запрос любого значения 
+
